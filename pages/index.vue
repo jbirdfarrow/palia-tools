@@ -445,16 +445,16 @@ function handleMouseLeave() {
         >
           <div class="flex flex-row-reverse items-center w-full gap-2 p-2 text-right rounded-md leading-1">
             <nuxt-img
-              format="png" src="/logo.webp"
+              format="png" src="https://ediblelandscapesfl.org/wp-content/uploads/2024/03/edible-landscapes-florida-white-logo.png"
               class="max-w-[6rem]"
-              alt="Palia Garden Planner Logo"
+              alt="Edible Landscapes Planner Logo"
               :srcset="undefined"
               placeholder
             />
             <div class="flex flex-col items-end justify-end w-full text-right text-misc flex-nowrap ws-nowrap">
               <NuxtLink to="/" class="flex items-center justify-start gap-1">
                 <p class="w-full text-2xl font-bold">
-                  Palia Garden Planner
+                  Edible Landscapes Planner
                 </p>
               </NuxtLink>
               <p class="p-2 py-1 font-black rounded-md bg-accent text-misc flex-nowrap ws-nowrap w-96">
